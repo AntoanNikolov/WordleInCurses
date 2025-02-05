@@ -1,2 +1,2 @@
-# WordleInCurses
-A simple wordle clone using the Curses module.
+# WordleInCurses  
+Play Wordle from the comfort of your terminal
